@@ -27,7 +27,7 @@ public class Main {
                 mkMatrix.readMatrix(matrixC);
             }
             
-            System.out.println("Deseja fazer multiplicar um novo par de Matrizes?\n 1-> Sim\n 2-> Não");
+            System.out.println("Deseja multiplicar um novo par de Matrizes?\n 1-> Sim\n 2-> Não");
             answ = input.nextInt();
         }   
         input.close();
